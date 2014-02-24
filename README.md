@@ -4,7 +4,7 @@ God: The Ruby Framework for Process Management
 * Authors: Tom Preston-Werner, Kevin Clark, Eric Lindvall
 * Website: http://godrb.com
 
-Description
+Description in detail
 -----------
 
 God is an easy to configure, easy to extend monitoring framework written in
